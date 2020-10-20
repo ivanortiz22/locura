@@ -1,0 +1,2 @@
+# locura
+curso de platzi
